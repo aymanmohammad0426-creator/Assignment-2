@@ -1,4 +1,4 @@
-#Assignment-2
+# Assignment-2
 
 #Task1:
 This program takes any number as an input and classfies as even or odd number.
